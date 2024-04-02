@@ -1928,7 +1928,7 @@ label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:focus::
     left: 0px;
     right: 0px;
     bottom: 0px;
-    max-height: 60%;
+    max-height: 75%;
     background: rgb(255, 255, 255);
     overflow: scroll;
     border: 2px solid black;
