@@ -1938,7 +1938,7 @@ label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:focus::
 .resize-line {
     cursor: row-resize;
     z-index: 1000;
-    height: 16px;
+    height: 20px;
     left: 0px;
     top: 0px;
     position: relative;
@@ -1949,6 +1949,7 @@ label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:focus::
     align-items: center;
     justify-items: center;
     flex-direction: column;
+    padding: 3px
 }
 .resize-line::before,
 .resize-line::after {
