@@ -1941,7 +1941,7 @@ label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:focus::
     height: 20px;
     left: 0px;
     top: 0px;
-    position: relative;
+    position: sticky;
     width: 100%;
     background: #242222;
     position: absolute;
