@@ -1932,6 +1932,8 @@ label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:focus::
     overflow: scroll;
     border: 2px solid black;
     width: 100%;
+    box-shadow: 0px -6px 10px 0 rgba(0,0,0,0.25);
+    z-index: 9999;
 }
 .resize-line {
     cursor: row-resize;
@@ -1948,7 +1950,7 @@ label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:focus::
     justify-items: center;
     flex-direction: column;
 }
-.resizer-y::before,
+.resize-line::before,
 .resize-line::after {
     display: block;
     content: "";
