@@ -1924,7 +1924,7 @@ label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:focus::
 
 .jss001{
     position: fixed;
-    left: 5px;
+    left: 0px;
     right: 0px;
     bottom: 0px;
     max-height: 60%;
