@@ -1908,7 +1908,6 @@ label[data-shrink=false] + .MuiInputBase-formControl .MuiInputBase-input:focus::
 
 .jss6 {
   padding: 24px;
-  margin-top:15px;
   flex-grow: 1;
   font-size: 14px;
   max-width: calc(100% - 10px);
